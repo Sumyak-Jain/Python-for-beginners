@@ -1,2 +1,2 @@
 # Project-Euler
-hackerrank solutions
+
