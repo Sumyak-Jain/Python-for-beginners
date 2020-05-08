@@ -1,5 +1,5 @@
-what we will cover
-- [x]
+## What we will cover
+
 - [x] Python Variables
 - [x] Python Data Types
 - [x] Python Keywords
