@@ -1,9 +1,9 @@
 ## What we will cover
 
-- [] Python Variables
-- [] Python Data Types
-- [] Python Keywords
-- [] Python Literals
+- [ ] Python Variables
+- [ ] Python Data Types
+- [ ] Python Keywords
+- [ ] Python Literals
 - [x] Python Operators
 - [x] Python Comments
 - [x] Python If else
