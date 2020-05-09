@@ -2,7 +2,7 @@
 
 - [x] Python Variables
 - [x] Python Data Types
-- [ ] Python Keywords
+- [x] Python Keywords
 - [ ] Python Literals
 - [ ] Python Operators
 - [ ] Python Comments
