@@ -1,7 +1,7 @@
 ## What we will cover
 
 - [x] Python Variables
-- [ ] Python Data Types
+- [x] Python Data Types
 - [ ] Python Keywords
 - [ ] Python Literals
 - [ ] Python Operators
