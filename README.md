@@ -4,7 +4,7 @@
 - [x] Python Data Types
 - [x] Python Keywords
 - [x] Python Literals
-- [ ] Python Operators
+- [x] Python Operators
 - [ ] Python Comments
 - [ ] Python If else
 - [ ] Python Loops
