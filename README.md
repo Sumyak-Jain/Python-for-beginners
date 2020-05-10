@@ -5,7 +5,7 @@
 - [x] Python Keywords
 - [x] Python Literals
 - [x] Python Operators
-- [ ] Python Comments
+- [x] Python Comments
 - [ ] Python If else
 - [ ] Python Loops
 - [ ] Python For Loop
