@@ -6,7 +6,7 @@
 - [x] Python Literals
 - [x] Python Operators
 - [x] Python Comments
-- [ ] Python If else
+- [x] Python If else
 - [ ] Python Loops
 - [ ] Python For Loop
 - [ ] Python While Loop
