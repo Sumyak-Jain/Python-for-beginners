@@ -3,7 +3,7 @@
 - [x] Python Variables
 - [x] Python Data Types
 - [x] Python Keywords
-- [ ] Python Literals
+- [x] Python Literals
 - [ ] Python Operators
 - [ ] Python Comments
 - [ ] Python If else
