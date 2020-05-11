@@ -11,8 +11,8 @@
 - [x] Python For Loop
 - [x] Python While Loop
 - [x] Python Break
-- [ ] Python Continue
-- [ ] Python Pass
+- [x] Python Continue
+- [x] Python Pass
 - [ ] Python Strings
 - [ ] Python Lists
 - [ ] Python Tuples
