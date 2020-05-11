@@ -10,7 +10,7 @@
 - [x] Python Loops
 - [x] Python For Loop
 - [x] Python While Loop
-- [ ] Python Break
+- [x] Python Break
 - [ ] Python Continue
 - [ ] Python Pass
 - [ ] Python Strings
