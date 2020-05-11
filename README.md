@@ -7,8 +7,8 @@
 - [x] Python Operators
 - [x] Python Comments
 - [x] Python If else
-- [ ] Python Loops
-- [ ] Python For Loop
+- [x] Python Loops
+- [x] Python For Loop
 - [ ] Python While Loop
 - [ ] Python Break
 - [ ] Python Continue
