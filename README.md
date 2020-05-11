@@ -9,7 +9,7 @@
 - [x] Python If else
 - [x] Python Loops
 - [x] Python For Loop
-- [ ] Python While Loop
+- [x] Python While Loop
 - [ ] Python Break
 - [ ] Python Continue
 - [ ] Python Pass
