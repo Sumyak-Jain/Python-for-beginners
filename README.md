@@ -14,7 +14,7 @@
 - [x] Python Continue
 - [x] Python Pass
 - [x] Python Strings
-- [ ] Python Lists
+- [x] Python Lists
 - [ ] Python Tuples
 - [ ] Python Sets
 - [ ] Python Dictionary
