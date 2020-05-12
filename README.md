@@ -15,8 +15,8 @@
 - [x] Python Pass
 - [x] Python Strings
 - [x] Python Lists
-- [ ] Python Tuples
-- [ ] Python Sets
+- [x] Python Tuples
+- [x] Python Sets
 - [ ] Python Dictionary
 - [ ] Python Functions
 - [ ] Python Built-in Functions
