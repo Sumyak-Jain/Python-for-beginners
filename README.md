@@ -13,7 +13,7 @@
 - [x] Python Break
 - [x] Python Continue
 - [x] Python Pass
-- [ ] Python Strings
+- [x] Python Strings
 - [ ] Python Lists
 - [ ] Python Tuples
 - [ ] Python Sets
