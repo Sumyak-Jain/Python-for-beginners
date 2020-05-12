@@ -1,0 +1,6 @@
+tu=(1,1.14,"gaurav","jain")
+print(tu)
+print(tu[0:2])
+print(tu[2])
+print(tu+tu)
+print(tu*4)
