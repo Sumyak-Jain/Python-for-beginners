@@ -17,7 +17,7 @@
 - [x] Python Lists
 - [x] Python Tuples
 - [x] Python Sets
-- [ ] Python Dictionary
+- [x] Python Dictionary
 - [ ] Python Functions
 - [ ] Python Built-in Functions
 - [ ] Python Lambda Functions
