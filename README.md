@@ -20,7 +20,7 @@
 - [x] Python Dictionary
 - [x] Python Functions
 - [x] Python Built-in Functions
-- [ ] Python Lambda Functions
+- [x] Python Lambda Functions
 - [ ] Python Files I/O
 - [ ] Python Modules
 - [ ] Python Exceptions
