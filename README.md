@@ -28,12 +28,14 @@
 - [x] Python List Comprehension
 - [x] Python Math Module
 - [x] Python Statistics Module
-- [ ] Python Sys Module
-- [ ] Python Magic Method
-- [ ] Python Stack & QueuePySpark MLlib
-- [ ] Python Decorator
-- [ ] Python GeneratorsWeb Scraping Using Python
-- [ ] Python JSONPython Itertools
+- [ ] Python Arrays 
+- [ ] Command Line Arguments
+- [ ] Python Stack & Queue
+- [ ] Web Scraping Using Python
+- [ ] Python Object Class
+- [ ] Python Constructors
+- [ ] Python Inheritance
+
 
 
 
