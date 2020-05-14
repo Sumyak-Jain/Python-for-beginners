@@ -24,10 +24,7 @@
 - [x] Python Files I/O
 - [x] Python Modules
 - [x] Python Exceptions
-- [ ] Python Date
-- [ ] Python Regex
-- [ ] Python Read CSV File 
-Write CSV File
+- [x] Python Date
 - [ ] Python Assert
 - [ ] Python List Comprehension
 - [ ] Python Collection Module
