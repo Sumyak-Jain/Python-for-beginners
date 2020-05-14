@@ -22,7 +22,7 @@
 - [x] Python Built-in Functions
 - [x] Python Lambda Functions
 - [x] Python Files I/O
-- [ ] Python Modules
+- [x] Python Modules
 - [ ] Python Exceptions
 - [ ] Python Date
 - [ ] Python Regex
