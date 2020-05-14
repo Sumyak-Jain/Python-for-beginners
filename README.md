@@ -25,10 +25,8 @@
 - [x] Python Modules
 - [x] Python Exceptions
 - [x] Python Date
-- [ ] Python Assert
-- [ ] Python List Comprehension
-- [ ] Python Collection Module
-- [ ] Python Math Module
+- [x] Python List Comprehension
+- [x] Python Math Module
 - [ ] Python OS Module
 - [ ] Python Random Module
 - [ ] Python Statistics Module
