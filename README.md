@@ -21,7 +21,7 @@
 - [x] Python Functions
 - [x] Python Built-in Functions
 - [x] Python Lambda Functions
-- [ ] Python Files I/O
+- [x] Python Files I/O
 - [ ] Python Modules
 - [ ] Python Exceptions
 - [ ] Python Date
