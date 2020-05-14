@@ -23,7 +23,7 @@
 - [x] Python Lambda Functions
 - [x] Python Files I/O
 - [x] Python Modules
-- [ ] Python Exceptions
+- [x] Python Exceptions
 - [ ] Python Date
 - [ ] Python Regex
 - [ ] Python Read CSV File 
