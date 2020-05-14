@@ -27,9 +27,7 @@
 - [x] Python Date
 - [x] Python List Comprehension
 - [x] Python Math Module
-- [ ] Python OS Module
-- [ ] Python Random Module
-- [ ] Python Statistics Module
+- [x] Python Statistics Module
 - [ ] Python Sys Module
 - [ ] Python Magic Method
 - [ ] Python Stack & QueuePySpark MLlib
