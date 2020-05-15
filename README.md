@@ -28,7 +28,7 @@
 - [x] Python List Comprehension
 - [x] Python Math Module
 - [x] Python Statistics Module
-- [ ] Python Arrays 
+- [x] Python Arrays 
 - [ ] Command Line Arguments
 - [ ] Python Stack & Queue
 - [ ] Web Scraping Using Python
