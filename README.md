@@ -31,7 +31,7 @@
 - [x] Python Arrays 
 - [x] Command Line Arguments
 - [x] Python Object Class
-- [ ] Python Constructors
+- [x] Python Constructors
 - [ ] Python Inheritance
 
 
