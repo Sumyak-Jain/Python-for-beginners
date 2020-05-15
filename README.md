@@ -30,7 +30,6 @@
 - [x] Python Statistics Module
 - [x] Python Arrays 
 - [x] Command Line Arguments
-- [ ] Python Stack & Queue
 - [ ] Web Scraping Using Python
 - [ ] Python Object Class
 - [ ] Python Constructors
