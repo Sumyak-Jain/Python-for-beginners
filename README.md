@@ -32,7 +32,7 @@
 - [x] Command Line Arguments
 - [x] Python Object Class
 - [x] Python Constructors
-- [ ] Python Inheritance
+- [x] Python Inheritance
 
 
 
