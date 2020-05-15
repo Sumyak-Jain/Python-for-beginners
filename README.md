@@ -30,7 +30,7 @@
 - [x] Python Statistics Module
 - [x] Python Arrays 
 - [x] Command Line Arguments
-- [ ] Python Object Class
+- [x] Python Object Class
 - [ ] Python Constructors
 - [ ] Python Inheritance
 
