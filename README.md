@@ -29,7 +29,7 @@
 - [x] Python Math Module
 - [x] Python Statistics Module
 - [x] Python Arrays 
-- [ ] Command Line Arguments
+- [x] Command Line Arguments
 - [ ] Python Stack & Queue
 - [ ] Web Scraping Using Python
 - [ ] Python Object Class
